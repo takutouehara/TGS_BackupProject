@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/PG/TGS_BackupProject/TGS_BackupProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/PG/TGS_BackupProject/TGS_BackupProject/Content/ThirdPerson/Maps/ThirdPersonMap.umap"
+			]
+		}
+	]
+}
